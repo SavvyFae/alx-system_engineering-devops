@@ -1,1 +1,1 @@
-Multiple permissions
+Owner and group
